@@ -1,2 +1,2 @@
 # DiQiKing
-Framework & Drink Order App, with Android and Java
+Framework & Drink Order App, base on Android and Java
