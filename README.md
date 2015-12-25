@@ -1,2 +1,2 @@
-# DiQiKing
-Framework & Drink Order App, base on Android and Java
+# Trade Bitcoins: store, exchange, buy -DiQiKing
+Framwork & Drink Order App & Specification, base on Android and Java
